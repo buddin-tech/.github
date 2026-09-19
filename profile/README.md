@@ -14,7 +14,7 @@ O Buddin lida com dados financeiros, então tratamos isso como requisito e não 
 
 - **O código é fechado. As nossas práticas de dados não são.** O que coletamos, onde fica armazenado e como pedir a exclusão está em [buddin.com.br/privacidade](https://buddin.com.br/privacidade).
 - **Não vendemos dados** e não ganhamos comissão sobre decisão financeira de ninguém. O produto se paga por assinatura.
-- **Encontrou uma falha?** Escreva para seguranca@buddin.com.br. Leia a [política de divulgação](SECURITY.md) antes.
+- **Encontrou uma falha?** Escreva para seguranca@buddin.com.br. Leia a [política de divulgação](../SECURITY.md) antes.
 
 ### Status
 
